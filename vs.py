@@ -1,6 +1,6 @@
 import weaviate
 
-auth_config = weaviate.AuthApiKey(api_key="YOUR-WEAVIATE-API-KEY")
+auth_config = weaviate.AuthApiKey(api_key="deskjBOi385xVtErhXNbVD3qCYq2XiriUd3k")
 
 client = weaviate.Client(
   url="https://medical-data-r5f4shu2.weaviate.network",
